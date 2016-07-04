@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>mybatis-spring-boot-sample-annotation</module>
+        <module>mybatis-spring-boot-sample-xml</module>
+        <module>spring-boot-web-socket-user-notifications</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
